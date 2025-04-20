@@ -1,0 +1,12 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+---
+description: save the generated output infomation records.
+---
+- filename is "history.md"
+- save the modifying changes information
+- save using markdown format
+- every section contains a title, a list of detail changes and why this change should be taken
