@@ -1,6 +1,6 @@
-# Portfolio2
+# Picture Gallery
 
-A modern portfolio website built with Next.js, featuring a beautiful image gallery with full-screen viewing capabilities.
+A modern Picture Gallery website built with Next.js, featuring a beautiful image gallery with full-screen viewing capabilities.
 
 ## Features
 
